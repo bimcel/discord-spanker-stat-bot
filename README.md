@@ -1,5 +1,7 @@
 # GİTHUB HESABIM KAPANDI AÇILANA KADAR BURDAYIM
 
+**Lütfen Projeyi Hızlı Almak İçin Bot Basmayınız.**
+
 # Spanker Discord Owner Guard Botu
 Selam, Ben Spanker. Bu botu 2 Ay Önce Kullanıyordum. Paylaşmaya karar verdim. İyi kullanımlar.
 
